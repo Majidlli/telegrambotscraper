@@ -1,0 +1,4 @@
+requests
+pyqt6
+telethon
+PySide6
